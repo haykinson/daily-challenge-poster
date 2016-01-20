@@ -1,0 +1,9 @@
+{
+	"note": "copy this file to the credentials folder, and pass it on the command line",
+
+	"slack_token": "YOUR SLACK TOKEN, like xoxp-123123-123123-123123-123123", //from https://api.slack.com/web
+	"slackbot_token": "YOUR SLACKBOT TOKEN, like 1tDyq123123123123", //from adding an integration at https://my.slack.com/services/new/slackbot
+	"channel_id": "C0JMYHDUK", //ID of the slack channel
+	"channel_name": "test", //name of the Slack channel
+	"credential_file": "credentials/A-CREDENTIALS-FILE.json" //the one you get from google
+}
